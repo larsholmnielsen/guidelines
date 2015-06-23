@@ -10,6 +10,8 @@ OpenAIRE builds on the DataCite Metadata Schema |datacitever| by making some of 
 
 The recommended status is made primarily to encourage users to input certain properties when creating a metadata record to enhance services.
 
+My extra five cents.
+
 .. important::
 
    The table below details only differences from the DataCite Metadata Schema |datacitever|. Please refer to the DataCite Metadata Schema |datacitever| for definition of properties and their encoding schemes: |datacitelink|
